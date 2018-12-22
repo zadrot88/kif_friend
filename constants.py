@@ -1,0 +1,2 @@
+admins = [123]
+token = '652384464:AAGDQFAXKQFJf3YG2npZo2VvGMvC9qRQ7uk'
